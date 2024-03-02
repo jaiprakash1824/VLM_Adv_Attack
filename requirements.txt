@@ -1,0 +1,6 @@
+python >=3.9.15
+torch
+torchvision
+transformers
+cv2
+
