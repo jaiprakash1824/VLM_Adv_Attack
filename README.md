@@ -7,4 +7,4 @@ In the dynamic landscape of medical artificial intelligence, this study explores
 ![alt text](https://github.com/jaiprakash1824/VLM_Adv_Attack/blob/main/images/Adv_VLM_Fig1.png?raw=true)
 
 # Attention Visualization
-![alt text](https://github.com/jaiprakash1824/VLM_Adv_Attack/blob/main/images/attention_maps.pdf?raw=true)
+![alt text](https://github.com/jaiprakash1824/VLM_Adv_Attack/blob/main/images/attention_maps.jpg?raw=true)
