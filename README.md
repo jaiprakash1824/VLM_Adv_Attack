@@ -1,4 +1,4 @@
-This is the GitHub repo for the paper ["Demonstration of an Adversarial Attack Against a Multimodal Vision Language Model for Pathology Imaging"](https://arxiv.org/pdf/2401.02565).
+This is the GitHub repo for the paper ["Demonstration of an Adversarial Attack Against a Multimodal Vision Language Model for Pathology Imaging"](https://arxiv.org/abs/2401.02565).
 
 # VLM_Adv_Attack
 
